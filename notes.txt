@@ -1,0 +1,14 @@
+#NOTES
+echo "#Example" >> README.md
+git init
+git config --global user.email "Your email" log useremail
+git config --global user.name "Your name" log username
+git add <filename> is used to add files to the local repository to be tracked
+git commit -m "Your Message" is used to commit the file added
+git status track the status of the repo
+git branch check the branch name 
+git branch -M main changes the branch name to main
+git remote add origin <url>
+git remote -v checks the origin url
+git push -u origin main
+git diff <filename> track the changes 
