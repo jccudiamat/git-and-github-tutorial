@@ -13,3 +13,4 @@ git remote -v checks the origin url
 git push -u origin main
 git diff <filename> track the changes 
 git log tracks the commits in the repo and who made the commits
+git clone <url>
