@@ -3,8 +3,12 @@ echo "#Example" >> README.md
 git init
 git config --global user.email "Your email" log useremail
 git config --global user.name "Your name" log username
-git add <filename> is used to add files to the local repository to be tracked
-git commit -m "Your Message" is used to commit the file added
+git add <filename>aka staging is used to add files to the local repository to be tracked
+git commit -m "Your Message" aka committing is used to commit the file added
+git commit -m "Add search functionality" \
+-m "- Implemented autocomplete feature" \
+-m "- Improved ranking algorithm" \
+-m "- Fixed bugs related to special character inputs"
 git status track the status of the repo
 git branch check the branch name 
 git branch -M main changes the branch name to main
