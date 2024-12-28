@@ -1,0 +1,53 @@
+
+# Git Bash and CMD Commands & Shortcuts
+
+## Git Bash Commands
+1. `pwd` - Print the current directory.
+2. `ls` - List files and directories.
+3. `cd [directory]` - Change to a specified directory.
+4. `touch [filename]` - Create a new file.
+5. `echo "text" > [filename]` - Create a file with content or overwrite.
+6. `echo "text" >> [filename]` - Append content to a file.
+7. `cat [filename]` - Display file contents.
+8. `rm [filename]` - Remove a file.
+9. `cp [source] [destination]` - Copy a file or directory.
+10. `mv [source] [destination]` - Move or rename a file or directory.
+11. `nano [filename]` - Edit a file using the nano editor.
+12. `vim [filename]` - Edit a file using the vim editor.
+13. `git init` - Initialize a new Git repository.
+14. `git add [filename]` - Stage changes for commit.
+15. `git commit -m "message"` - Commit changes with a message.
+16. `git remote add origin [url]` - Add a remote repository.
+17. `git push -u origin main` - Push changes to the remote repository.
+18. `git pull origin main` - Pull changes from the remote repository.
+19. `ssh-keygen -t rsa -b 4096 -C "email@example.com"` - Generate an SSH key.
+20. `ssh -T git@github.com` - Test SSH connection to GitHub.
+
+## Git Bash Shortcuts
+1. `Ctrl + L` - Clear the screen.
+2. `Ctrl + C` - Cancel the current command.
+3. `Tab` - Auto-complete filenames or commands.
+
+## CMD Commands
+1. `dir` - List files and directories.
+2. `cd [directory]` - Change to a specified directory.
+3. `mkdir [directory]` - Create a new directory.
+4. `type [filename]` - Display file contents.
+5. `copy nul [filename]` - Create an empty file.
+6. `echo "text" > [filename]` - Create a file with content or overwrite.
+7. `echo "text" >> [filename]` - Append content to a file.
+8. `del [filename]` - Delete a file.
+9. `rename [oldname] [newname]` - Rename a file.
+10. `move [source] [destination]` - Move a file.
+11. `cls` - Clear the screen.
+12. `git init` - Initialize a new Git repository.
+13. `git add [filename]` - Stage changes for commit.
+14. `git commit -m "message"` - Commit changes with a message.
+15. `git remote add origin [url]` - Add a remote repository.
+16. `git push -u origin main` - Push changes to the remote repository.
+
+## CMD Shortcuts
+1. `Ctrl + C` - Cancel the current command.
+2. `Arrow Keys` - Navigate through the command history.
+3. `F7` - Display command history menu.
+4. `Alt + Enter` - Toggle fullscreen mode.
