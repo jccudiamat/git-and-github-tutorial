@@ -27,6 +27,8 @@
 1. `Ctrl + L` - Clear the screen.
 2. `Ctrl + C` - Cancel the current command.
 3. `Tab` - Auto-complete filenames or commands.
+4. Ctrl + Insert - Copy
+5. Shift + Insert - Paste
 
 ## CMD Commands
 1. `dir` - List files and directories.
