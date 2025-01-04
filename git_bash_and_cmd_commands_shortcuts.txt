@@ -53,3 +53,4 @@
 2. `Arrow Keys` - Navigate through the command history.
 3. `F7` - Display command history menu.
 4. `Alt + Enter` - Toggle fullscreen mode.
+5. q - Exit git log
