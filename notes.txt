@@ -4,6 +4,7 @@ git init
 git config --global user.email "Your email" log useremail
 git config --global user.name "Your name" log username
 git add <filename>aka staging is used to add files to the local repository to be tracked
+git add -A The -A option stages all changes, including moved, added, and deleted files.
 git commit -m "Your Message" aka committing is used to commit the file added
 git commit -m "Add search functionality" \
 -m "- Implemented autocomplete feature" \
@@ -19,3 +20,4 @@ git diff <filename> track the changes
 git log tracks the commits in the repo and who made the commits
 git clone <url>
 git checkout <commit code> to switch/revert heads
+git clean -f This permanently removes untracked files, so use it carefully.

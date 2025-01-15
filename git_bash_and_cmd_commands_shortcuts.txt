@@ -47,6 +47,7 @@
 14. `git commit -m "message"` - Commit changes with a message.
 15. `git remote add origin [url]` - Add a remote repository.
 16. `git push -u origin main` - Push changes to the remote repository.
+17. mv source-dir/* destination-dir/ Move the Files (if not already moved) Ensure you’ve moved the files to the new directory:
 
 ## CMD Shortcuts
 1. `Ctrl + C` - Cancel the current command.
