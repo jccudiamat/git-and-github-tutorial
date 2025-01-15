@@ -6,6 +6,7 @@ git config --global user.name "Your name" log username
 git add <filename>aka staging is used to add files to the local repository to be tracked
 git add -A The -A option stages all changes, including moved, added, and deleted files.
 git commit -m "Your Message" aka committing is used to commit the file added
+git commit -a -m "Your message" add and commit at the same time
 git commit -m "Add search functionality" \
 -m "- Implemented autocomplete feature" \
 -m "- Improved ranking algorithm" \
